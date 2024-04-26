@@ -1,4 +1,4 @@
-Liver Demo of code : https://ashish-2000.github.io/random-quote/
+Live Demo of code : https://ashish-2000.github.io/random-quote/
 
 
 
